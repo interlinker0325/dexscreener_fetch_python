@@ -1,0 +1,426 @@
+[
+    {
+        "chain": "solana",
+        "symbol": "Rushroom",
+        "name": "Runner Of The Day",
+        "priceNative": "0.0000002122",
+        "priceUsd": "0.00003226",
+        "volume": 398776.53
+    },
+    {
+        "chain": "solana",
+        "symbol": "Rushroom",
+        "name": "Runner Of The Day",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006204",
+        "volume": 92089.1
+    },
+    {
+        "chain": "ethereum",
+        "symbol": "BOOMKIN",
+        "name": "Boomkin",
+        "priceNative": "0.00000000000001936",
+        "priceUsd": "0.00000000003477",
+        "volume": 30396.76
+    },
+    {
+        "chain": "solana",
+        "symbol": "DOUGH",
+        "name": "Mellow Dough Gang",
+        "priceNative": "0.0000007827",
+        "priceUsd": "0.0001189",
+        "volume": 489252.51
+    },
+    {
+        "chain": "solana",
+        "symbol": "DOUGH",
+        "name": "Mellow Dough Gang",
+        "priceNative": "0.0000006175",
+        "priceUsd": "0.00009390",
+        "volume": 2354.09
+    },
+    {
+        "chain": "solana",
+        "symbol": "DOUGH",
+        "name": "Mellow Dough Gang",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006204",
+        "volume": 169823.01
+    },
+    {
+        "chain": "solana",
+        "symbol": "ULT",
+        "name": "ULTIMATE PRINTER",
+        "priceNative": "0.00000007372",
+        "priceUsd": "0.00001120",
+        "volume": 8835.17
+    },
+    {
+        "chain": "solana",
+        "symbol": "FARTTRUMP",
+        "name": "Fart Trump",
+        "priceNative": "0.000008150",
+        "priceUsd": "0.001238",
+        "volume": 78494.74
+    },
+    {
+        "chain": "solana",
+        "symbol": "VOMIT",
+        "name": "Vomit",
+        "priceNative": "0.00000003833",
+        "priceUsd": "0.000005801",
+        "volume": 33.19
+    },
+    {
+        "chain": "solana",
+        "symbol": "ELYSIAN",
+        "name": "The Elysian Quest",
+        "priceNative": "0.00000002715",
+        "priceUsd": "0.000004127",
+        "volume": 176983.9
+    },
+    {
+        "chain": "solana",
+        "symbol": "ELYSIAN",
+        "name": "The Elysian Quest",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006206",
+        "volume": 42824.13
+    },
+    {
+        "chain": "solana",
+        "symbol": "BananaZone",
+        "name": "Banana Zone",
+        "priceNative": "0.00000005658",
+        "priceUsd": "0.000008608",
+        "volume": 446821.48
+    },
+    {
+        "chain": "solana",
+        "symbol": "BananaZone",
+        "name": "Banana Zone",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006224",
+        "volume": 141069.16
+    },
+    {
+        "chain": "solana",
+        "symbol": "RAPID",
+        "name": "Rapid.fun",
+        "priceNative": "0.000001559",
+        "priceUsd": "0.0002370",
+        "volume": 913779.63
+    },
+    {
+        "chain": "solana",
+        "symbol": "RAPID",
+        "name": "Rapid.fun",
+        "priceNative": "0.000001449",
+        "priceUsd": "0.0002203",
+        "volume": 2933.9
+    },
+    {
+        "chain": "solana",
+        "symbol": "RAPID",
+        "name": "Rapid.fun",
+        "priceNative": "0.000001461",
+        "priceUsd": "0.0002221",
+        "volume": 282.48
+    },
+    {
+        "chain": "solana",
+        "symbol": "RAPID",
+        "name": "Rapid.fun",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006216",
+        "volume": 40761.36
+    },
+    {
+        "chain": "base",
+        "symbol": "PEPECULT",
+        "name": "Cult of Pepe",
+        "priceNative": "0.000000003707",
+        "priceUsd": "0.000006659",
+        "volume": 169468.34
+    },
+    {
+        "chain": "solana",
+        "symbol": "IShowSpeed",
+        "name": "Darren Jason Watkins Jr. ",
+        "priceNative": "0.0000002453",
+        "priceUsd": "0.00003704",
+        "volume": 2903431.18
+    },
+    {
+        "chain": "base",
+        "symbol": "TROLL",
+        "name": "Based Troll",
+        "priceNative": "0.0000000001826",
+        "priceUsd": "0.0000003273",
+        "volume": 7660.14
+    },
+    {
+        "chain": "solana",
+        "symbol": "\ud83d\udc11",
+        "name": "Don't be a \ud83d\udc11",
+        "priceNative": "0.00000002811",
+        "priceUsd": "0.000004247",
+        "volume": 44041.28
+    },
+    {
+        "chain": "solana",
+        "symbol": "ELEVATE",
+        "name": "Elevate AI",
+        "priceNative": "0.00000001391",
+        "priceUsd": "0.000002103",
+        "volume": 148779.26
+    },
+    {
+        "chain": "solana",
+        "symbol": "Fartcoin3",
+        "name": "Fartcoin3",
+        "priceNative": "0.00000004692",
+        "priceUsd": "0.000007132",
+        "volume": 683026.43
+    },
+    {
+        "chain": "solana",
+        "symbol": "Fartcoin3",
+        "name": "Fartcoin3",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006209",
+        "volume": 47235.14
+    },
+    {
+        "chain": "solana",
+        "symbol": "ATM",
+        "name": "Automatic Troll Machine",
+        "priceNative": "0.00000009758",
+        "priceUsd": "0.00001484",
+        "volume": 4068.69
+    },
+    {
+        "chain": "solana",
+        "symbol": "hard",
+        "name": "stay hard mf",
+        "priceNative": "0.00000003116",
+        "priceUsd": "0.000004737",
+        "volume": 3987360.53
+    },
+    {
+        "chain": "solana",
+        "symbol": "hard",
+        "name": "stay hard mf",
+        "priceNative": "0.000008102",
+        "priceUsd": "0.001225",
+        "volume": 1515.99
+    },
+    {
+        "chain": "solana",
+        "symbol": "hard",
+        "name": "stay hard mf",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006221",
+        "volume": 65552.48
+    },
+    {
+        "chain": "solana",
+        "symbol": "gm",
+        "name": "gm",
+        "priceNative": "0.00002085",
+        "priceUsd": "0.003168",
+        "volume": 1119473.75
+    },
+    {
+        "chain": "solana",
+        "symbol": "gm",
+        "name": "gm",
+        "priceNative": "0.00002222",
+        "priceUsd": "0.003381",
+        "volume": 2099.98
+    },
+    {
+        "chain": "solana",
+        "symbol": "F/ART",
+        "name": "The Art in Fart",
+        "priceNative": "0.00000003917",
+        "priceUsd": "0.000005948",
+        "volume": 401246.89
+    },
+    {
+        "chain": "solana",
+        "symbol": "F/ART",
+        "name": "The Art in Fart",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006198",
+        "volume": 102315.48
+    },
+    {
+        "chain": "solana",
+        "symbol": "doug",
+        "name": "Just doug ",
+        "priceNative": "0.0000001674",
+        "priceUsd": "0.00002547",
+        "volume": 157508
+    },
+    {
+        "chain": "solana",
+        "symbol": "doug",
+        "name": "Just doug ",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006219",
+        "volume": 48890.72
+    },
+    {
+        "chain": "solana",
+        "symbol": "HODL",
+        "name": "HODL",
+        "priceNative": "0.00000003300",
+        "priceUsd": "0.000005014",
+        "volume": 2521685.84
+    },
+    {
+        "chain": "solana",
+        "symbol": "HODL",
+        "name": "HODL",
+        "priceNative": "0.0000002363",
+        "priceUsd": "0.00003565",
+        "volume": 13929.36
+    },
+    {
+        "chain": "solana",
+        "symbol": "HODL",
+        "name": "HODL",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006199",
+        "volume": 13075.3
+    },
+    {
+        "chain": "solana",
+        "symbol": "PFC",
+        "name": "Pedo Finder Coin",
+        "priceNative": "0.0000004924",
+        "priceUsd": "0.00007444",
+        "volume": 180910.92
+    },
+    {
+        "chain": "solana",
+        "symbol": "yippee",
+        "name": "autism creature",
+        "priceNative": "0.00000002248",
+        "priceUsd": "0.000003414",
+        "volume": 1322490.07
+    },
+    {
+        "chain": "solana",
+        "symbol": "yippee",
+        "name": "autism creature",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006230",
+        "volume": 51593.09
+    },
+    {
+        "chain": "solana",
+        "symbol": "POPE",
+        "name": "Pope Patrick",
+        "priceNative": "0.000000004012",
+        "priceUsd": "0.0000006092",
+        "volume": 2598.66
+    },
+    {
+        "chain": "solana",
+        "symbol": "colon",
+        "name": "official fart reserve",
+        "priceNative": "0.0000009177",
+        "priceUsd": "0.0001394",
+        "volume": 965491.73
+    },
+    {
+        "chain": "solana",
+        "symbol": "colon",
+        "name": "official fart reserve",
+        "priceNative": "0.0000008953",
+        "priceUsd": "0.0001361",
+        "volume": 15902.47
+    },
+    {
+        "chain": "solana",
+        "symbol": "colon",
+        "name": "official fart reserve",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006191",
+        "volume": 134519.49
+    },
+    {
+        "chain": "solana",
+        "symbol": "USATRUMP",
+        "name": "USATRUMP",
+        "priceNative": "0.00000002172",
+        "priceUsd": "0.000003296",
+        "volume": 3158656.15
+    },
+    {
+        "chain": "solana",
+        "symbol": "USATRUMP",
+        "name": "USATRUMP",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006200",
+        "volume": 14765.94
+    },
+    {
+        "chain": "solana",
+        "symbol": "BOOMER",
+        "name": "Boomer",
+        "priceNative": "0.00000004375",
+        "priceUsd": "0.000006649",
+        "volume": 449425.57
+    },
+    {
+        "chain": "solana",
+        "symbol": "BOOMER",
+        "name": "Boomer",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006215",
+        "volume": 83900.14
+    },
+    {
+        "chain": "solana",
+        "symbol": "FLUX",
+        "name": "Flux Bridge",
+        "priceNative": "0.00000001463",
+        "priceUsd": "0.000002220",
+        "volume": 84836.42
+    },
+    {
+        "chain": "solana",
+        "symbol": "LPC",
+        "name": "Loopcoin",
+        "priceNative": "0.00000001413",
+        "priceUsd": "0.000002144",
+        "volume": 2855.62
+    },
+    {
+        "chain": "solana",
+        "symbol": "doug",
+        "name": "Just doug",
+        "priceNative": "0.00000002500",
+        "priceUsd": "0.000003783",
+        "volume": 513187.77
+    },
+    {
+        "chain": "solana",
+        "symbol": "doug",
+        "name": "Just doug",
+        "priceNative": "0.0000003877",
+        "priceUsd": "0.00005863",
+        "volume": 2016.31
+    },
+    {
+        "chain": "solana",
+        "symbol": "doug",
+        "name": "Just doug",
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006212",
+        "volume": 44276.38
+    }
+]

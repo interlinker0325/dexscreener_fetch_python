@@ -1,0 +1,3695 @@
+[
+    {
+        "chainId": "ethereum",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/ethereum/0x357f67a15205c8745da6d95d772b0792167c5a76",
+        "pairAddress": "0x357F67a15205c8745da6D95D772B0792167c5a76",
+        "labels": [
+            "v2"
+        ],
+        "baseToken": {
+            "address": "0x8BCf2af14CE1a6c2546187049051e65f85d8778A",
+            "name": "Boomkin",
+            "symbol": "BOOMKIN"
+        },
+        "quoteToken": {
+            "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        "priceNative": "0.00000000000001864",
+        "priceUsd": "0.00000000003333",
+        "txns": {
+            "m5": {
+                "buys": 4,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 151,
+                "sells": 57
+            },
+            "h6": {
+                "buys": 151,
+                "sells": 57
+            },
+            "h24": {
+                "buys": 151,
+                "sells": 57
+            }
+        },
+        "volume": {
+            "h24": 27593.71,
+            "h6": 27593.71,
+            "h1": 27593.71,
+            "m5": 402.2
+        },
+        "priceChange": {
+            "m5": -1.58,
+            "h1": 636,
+            "h6": 636,
+            "h24": 636
+        },
+        "liquidity": {
+            "usd": 8503.74,
+            "base": 127562175391727,
+            "quote": 2.3786
+        },
+        "fdv": 14022,
+        "marketCap": 14022,
+        "pairCreatedAt": 1745392967000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x8bcf2af14ce1a6c2546187049051e65f85d8778a.png?key=6fef93",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x8bcf2af14ce1a6c2546187049051e65f85d8778a/header.png?key=6fef93",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0x8bcf2af14ce1a6c2546187049051e65f85d8778a?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/boomkineth"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/boomkineth"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/ddet8u8fpgbz7dr7exwaxbk6qbcq4b78tqcnbtaaynvj",
+        "pairAddress": "DDET8u8FpGBZ7dR7ExwAxbK6qBCQ4B78TqCnBtAAynVJ",
+        "baseToken": {
+            "address": "2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump",
+            "name": "Mellow Dough Gang",
+            "symbol": "DOUGH"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000001050",
+        "priceUsd": "0.0001587",
+        "txns": {
+            "m5": {
+                "buys": 432,
+                "sells": 355
+            },
+            "h1": {
+                "buys": 1890,
+                "sells": 1578
+            },
+            "h6": {
+                "buys": 1890,
+                "sells": 1578
+            },
+            "h24": {
+                "buys": 1890,
+                "sells": 1578
+            }
+        },
+        "volume": {
+            "h24": 267387.23,
+            "h6": 267387.23,
+            "h1": 267387.23,
+            "m5": 60728.14
+        },
+        "priceChange": {
+            "m5": 13.78,
+            "h1": 151,
+            "h6": 151,
+            "h24": 151
+        },
+        "liquidity": {
+            "usd": 41720.29,
+            "base": 131233049,
+            "quote": 138.1398
+        },
+        "fdv": 158794,
+        "marketCap": 158794,
+        "pairCreatedAt": 1745394595000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump.png?key=711a4e",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump/header.png?key=711a4e",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://dough.team"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/SolanaDough"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/SolanaDough"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 30
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/gzk7qubuyuxd46t6rbpsb3qbbkemuxj33ssqyp9mkdeq",
+        "pairAddress": "Gzk7QUBuyuxd46T6RBPSB3QBBkemuXj33SsqyP9MKdEQ",
+        "baseToken": {
+            "address": "2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump",
+            "name": "Mellow Dough Gang",
+            "symbol": "DOUGH"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006204",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 369,
+                "sells": 221
+            },
+            "h6": {
+                "buys": 1472,
+                "sells": 955
+            },
+            "h24": {
+                "buys": 1472,
+                "sells": 955
+            }
+        },
+        "volume": {
+            "h24": 169823.01,
+            "h6": 169823.01,
+            "h1": 34985.79,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": 130,
+            "h6": 1206,
+            "h24": 1206
+        },
+        "fdv": 62042.91,
+        "marketCap": 62042.91,
+        "pairCreatedAt": 1745389775000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump.png?key=711a4e",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump/header.png?key=711a4e",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/2bc7d2JKAmX4bdJFuLVNozwbFov1jZXoCAeHskespump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://dough.team"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/SolanaDough"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/SolanaDough"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 30
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/htcfyfasn7ck4frt4bthzrc9hqqsv28ckg8vdjzsvjmf",
+        "pairAddress": "HtCFyFAsn7cK4fRT4BTHzrc9hqQsv28cKG8VdjzSVjmF",
+        "labels": [
+            "CPMM"
+        ],
+        "baseToken": {
+            "address": "24RvuSJvLyAc9amfBR4ynqkZbHvEwackgKCAymQCtthT",
+            "name": "ULTIMATE PRINTER",
+            "symbol": "ULT"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000006594",
+        "priceUsd": "0.000009966",
+        "txns": {
+            "m5": {
+                "buys": 16,
+                "sells": 14
+            },
+            "h1": {
+                "buys": 111,
+                "sells": 54
+            },
+            "h6": {
+                "buys": 148,
+                "sells": 70
+            },
+            "h24": {
+                "buys": 148,
+                "sells": 70
+            }
+        },
+        "volume": {
+            "h24": 5238.91,
+            "h6": 5238.91,
+            "h1": 4645.93,
+            "m5": 1432.12
+        },
+        "priceChange": {
+            "m5": 44.93,
+            "h1": 788,
+            "h6": 1527,
+            "h24": 1527
+        },
+        "liquidity": {
+            "usd": 3090.91,
+            "base": 164708810,
+            "quote": 9.589
+        },
+        "fdv": 9967,
+        "marketCap": 9967,
+        "pairCreatedAt": 1745391165000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/24RvuSJvLyAc9amfBR4ynqkZbHvEwackgKCAymQCtthT.png?key=88495d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/24RvuSJvLyAc9amfBR4ynqkZbHvEwackgKCAymQCtthT/header.png?key=88495d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/24RvuSJvLyAc9amfBR4ynqkZbHvEwackgKCAymQCtthT?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/ULTIMATEPRINTE"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/ULTIMATE_PRINTER"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/bedyzemxuxmrygnegni5x6eiktdm8smtuxu4rj2gkbyh",
+        "pairAddress": "BeDYZEmXUxMrYgNEGNi5X6EiKtdM8SmtUxu4rJ2GKbYH",
+        "baseToken": {
+            "address": "CLBdWBxPYmeCS8FTKDPFznX7dfUAjCjztrS251zAX2R7",
+            "name": "Fart Trump",
+            "symbol": "FARTTRUMP"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000004678",
+        "priceUsd": "0.0007070",
+        "txns": {
+            "m5": {
+                "buys": 35,
+                "sells": 26
+            },
+            "h1": {
+                "buys": 376,
+                "sells": 278
+            },
+            "h6": {
+                "buys": 376,
+                "sells": 278
+            },
+            "h24": {
+                "buys": 376,
+                "sells": 278
+            }
+        },
+        "volume": {
+            "h24": 47611.13,
+            "h6": 47611.13,
+            "h1": 47611.13,
+            "m5": 3887.51
+        },
+        "priceChange": {
+            "m5": -3.59,
+            "h1": 3705,
+            "h6": 3705,
+            "h24": 3705
+        },
+        "liquidity": {
+            "usd": 10506.32,
+            "base": 7410225,
+            "quote": 34.8467
+        },
+        "fdv": 70708,
+        "marketCap": 70708,
+        "pairCreatedAt": 1745393501000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/CLBdWBxPYmeCS8FTKDPFznX7dfUAjCjztrS251zAX2R7.png?key=cf8c07",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CLBdWBxPYmeCS8FTKDPFznX7dfUAjCjztrS251zAX2R7/header.png?key=cf8c07",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CLBdWBxPYmeCS8FTKDPFznX7dfUAjCjztrS251zAX2R7?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.farttrump.xyz/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/FartTrumpOnSol"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/FartTrumpSol"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 50
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/gvztzh48sn7dxtxt9xrhdd19bvnmw2ntwhgjplgheuf",
+        "pairAddress": "GvZtzH48sN7dxTxT9XRhdd19bvNMW2ntWhGJpLGheuf",
+        "labels": [
+            "CPMM"
+        ],
+        "baseToken": {
+            "address": "5ccuKMjzyzs53WeJDBAWYmNJ6JQryERHh19XByQDeNsH",
+            "name": "Vomit",
+            "symbol": "VOMIT"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000003833",
+        "priceUsd": "0.000005801",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 13,
+                "sells": 8
+            },
+            "h6": {
+                "buys": 13,
+                "sells": 8
+            },
+            "h24": {
+                "buys": 13,
+                "sells": 8
+            }
+        },
+        "volume": {
+            "h24": 33.19,
+            "h6": 33.19,
+            "h1": 33.19,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": 0.42,
+            "h6": 0.42,
+            "h24": 0.42
+        },
+        "liquidity": {
+            "usd": 10442.3,
+            "base": 899967872,
+            "quote": 34.5017
+        },
+        "fdv": 5801,
+        "marketCap": 5801,
+        "pairCreatedAt": 1745392953000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/5ccuKMjzyzs53WeJDBAWYmNJ6JQryERHh19XByQDeNsH.png?key=09f753",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/5ccuKMjzyzs53WeJDBAWYmNJ6JQryERHh19XByQDeNsH/header.png?key=09f753",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5ccuKMjzyzs53WeJDBAWYmNJ6JQryERHh19XByQDeNsH?timestamp=1745395500000",
+            "websites": [],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/e3uuzjgg6p6ytd4rboxwadgct5vbmkqaem88dq1bpaqn",
+        "pairAddress": "E3uUZJGG6P6YTd4RboxwADgCt5VbMKQaem88dq1bpaQn",
+        "baseToken": {
+            "address": "85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump",
+            "name": "The Elysian Quest",
+            "symbol": "ELYSIAN"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000003498",
+        "priceUsd": "0.000005288",
+        "txns": {
+            "m5": {
+                "buys": 10,
+                "sells": 9
+            },
+            "h1": {
+                "buys": 1329,
+                "sells": 1282
+            },
+            "h6": {
+                "buys": 1329,
+                "sells": 1282
+            },
+            "h24": {
+                "buys": 1329,
+                "sells": 1282
+            }
+        },
+        "volume": {
+            "h24": 176489.86,
+            "h6": 176489.86,
+            "h1": 176489.86,
+            "m5": 464.24
+        },
+        "priceChange": {
+            "m5": 24.27,
+            "h1": -91.51,
+            "h6": -91.51,
+            "h24": -91.51
+        },
+        "liquidity": {
+            "usd": 7651.27,
+            "base": 723926256,
+            "quote": 25.2912
+        },
+        "fdv": 5289,
+        "marketCap": 5289,
+        "pairCreatedAt": 1745392736000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump.png?key=ceecf8",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump/header.png?key=ceecf8",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump?timestamp=1745395500000",
+            "websites": [],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/hkb5qbop5ttjrdxlpfrum5zynr5bm1rvbkl5a9hzkwcw",
+        "pairAddress": "HKB5QboP5TTJRdxLPFRUm5zYnr5BM1rVbKL5a9HzkWcW",
+        "baseToken": {
+            "address": "85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump",
+            "name": "The Elysian Quest",
+            "symbol": "ELYSIAN"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006206",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 222,
+                "sells": 95
+            },
+            "h6": {
+                "buys": 222,
+                "sells": 95
+            },
+            "h24": {
+                "buys": 222,
+                "sells": 95
+            }
+        },
+        "volume": {
+            "h24": 42824.13,
+            "h6": 42824.13,
+            "h1": 42824.13,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": 1233,
+            "h6": 1233,
+            "h24": 1233
+        },
+        "fdv": 62067.56,
+        "marketCap": 62067.56,
+        "pairCreatedAt": 1745392612000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump.png?key=ceecf8",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump/header.png?key=ceecf8",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/85ryHPV56zGKcH4qn9bPgXrzECSZsmVXsPEywLQepump?timestamp=1745395500000",
+            "websites": [],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/kuh2zz1p2unafxzh6kaomzl9ychdlcgtw87cql8ntag",
+        "pairAddress": "kuh2zZ1p2UNafXZh6KaomzL9YcHDLCGTw87CqL8NTAG",
+        "baseToken": {
+            "address": "Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump",
+            "name": "Banana Zone",
+            "symbol": "BananaZone"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000005491",
+        "priceUsd": "0.000008305",
+        "txns": {
+            "m5": {
+                "buys": 7,
+                "sells": 17
+            },
+            "h1": {
+                "buys": 928,
+                "sells": 1004
+            },
+            "h6": {
+                "buys": 2974,
+                "sells": 3067
+            },
+            "h24": {
+                "buys": 2974,
+                "sells": 3067
+            }
+        },
+        "volume": {
+            "h24": 446109.52,
+            "h6": 446109.52,
+            "h1": 111280.33,
+            "m5": 1313.89
+        },
+        "priceChange": {
+            "m5": -27.83,
+            "h1": -60.96,
+            "h6": -86.91,
+            "h24": -86.91
+        },
+        "liquidity": {
+            "usd": 9825.86,
+            "base": 592098013,
+            "quote": 32.4539
+        },
+        "fdv": 8305,
+        "marketCap": 8305,
+        "pairCreatedAt": 1745390842000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump.png?key=e514ce",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump/header.png?key=e514ce",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/Poloniex/status/1914931241888973037#ref=241c5010-2e67-4500-a683-04d392a236e3"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2akj9thsr14af9uj9udojqzgqptobnzqev5h3gdttqss",
+        "pairAddress": "2aKj9ThsR14af9uJ9UDoJQzGqpTobNzqeV5H3gDTtQSS",
+        "baseToken": {
+            "address": "Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump",
+            "name": "Banana Zone",
+            "symbol": "BananaZone"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006224",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 761,
+                "sells": 641
+            },
+            "h24": {
+                "buys": 761,
+                "sells": 641
+            }
+        },
+        "volume": {
+            "h24": 141069.16,
+            "h6": 141069.16,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1191,
+            "h24": 1191
+        },
+        "fdv": 62240.13,
+        "marketCap": 62240.13,
+        "pairCreatedAt": 1745390220000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump.png?key=e514ce",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump/header.png?key=e514ce",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Bvrd4psDakNWd1t7BovyDeoR7sVzpGtpsN74cmRLpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/Poloniex/status/1914931241888973037#ref=241c5010-2e67-4500-a683-04d392a236e3"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/fmrswsnkmqywqlnskgq5vodkj2qatqcc7pbybywdzxdk",
+        "pairAddress": "FMrSWsNKMQYWQLNskgq5VodkJ2qatQcc7pBYbYwDzxdK",
+        "baseToken": {
+            "address": "9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump",
+            "name": "Rapid.fun",
+            "symbol": "RAPID"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000002649",
+        "priceUsd": "0.0004004",
+        "txns": {
+            "m5": {
+                "buys": 322,
+                "sells": 270
+            },
+            "h1": {
+                "buys": 2752,
+                "sells": 2379
+            },
+            "h6": {
+                "buys": 3634,
+                "sells": 3051
+            },
+            "h24": {
+                "buys": 3634,
+                "sells": 3051
+            }
+        },
+        "volume": {
+            "h24": 684327.06,
+            "h6": 684327.06,
+            "h1": 566240.92,
+            "m5": 72503.62
+        },
+        "priceChange": {
+            "m5": 45.69,
+            "h1": 706,
+            "h6": 532,
+            "h24": 532
+        },
+        "liquidity": {
+            "usd": 67553.81,
+            "base": 84311893,
+            "quote": 223.5282
+        },
+        "fdv": 399906,
+        "marketCap": 399906,
+        "pairCreatedAt": 1745391029000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump.png?key=0a7299",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump/header.png?key=0a7299",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://rapid.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/rapiddotfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/rapiddotfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/6jti94sskcjenxpfsc7jzzznp4hc9lizqzej6esn6enz",
+        "pairAddress": "6Jti94SskCJEnxPFsC7jzzznP4hC9LiZqzEj6eSN6EnZ",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump",
+            "name": "Rapid.fun",
+            "symbol": "RAPID"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000002753",
+        "priceUsd": "0.0004161",
+        "txns": {
+            "m5": {
+                "buys": 12,
+                "sells": 11
+            },
+            "h1": {
+                "buys": 19,
+                "sells": 13
+            },
+            "h6": {
+                "buys": 19,
+                "sells": 13
+            },
+            "h24": {
+                "buys": 19,
+                "sells": 13
+            }
+        },
+        "volume": {
+            "h24": 1813.91,
+            "h6": 1813.91,
+            "h1": 1813.91,
+            "m5": 1663.27
+        },
+        "priceChange": {
+            "m5": 18.54,
+            "h1": 21.3,
+            "h6": 21.3,
+            "h24": 21.3
+        },
+        "liquidity": {
+            "usd": 7074.82,
+            "base": 5422274,
+            "quote": 31.8804
+        },
+        "fdv": 415541,
+        "marketCap": 415541,
+        "pairCreatedAt": 1745395003000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump.png?key=0a7299",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump/header.png?key=0a7299",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://rapid.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/rapiddotfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/rapiddotfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/7ymnmi2wn3htlcjjoedaosy9bur1sxitrub5sxup3xxy",
+        "pairAddress": "7yMnmi2wN3HtLcJjoEDAosy9BuR1sxiTrUb5sxup3xXY",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump",
+            "name": "Rapid.fun",
+            "symbol": "RAPID"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000002734",
+        "priceUsd": "0.0004132",
+        "txns": {
+            "m5": {
+                "buys": 11,
+                "sells": 11
+            },
+            "h1": {
+                "buys": 42,
+                "sells": 28
+            },
+            "h6": {
+                "buys": 42,
+                "sells": 28
+            },
+            "h24": {
+                "buys": 42,
+                "sells": 28
+            }
+        },
+        "volume": {
+            "h24": 148.92,
+            "h6": 148.92,
+            "h1": 148.92,
+            "m5": 54.71
+        },
+        "priceChange": {
+            "m5": 40.2,
+            "h1": 98.27,
+            "h6": 98.27,
+            "h24": 98.27
+        },
+        "liquidity": {
+            "usd": 201.03,
+            "base": 325991,
+            "quote": 0.4387
+        },
+        "fdv": 412664,
+        "marketCap": 412664,
+        "pairCreatedAt": 1745394688000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump.png?key=0a7299",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump/header.png?key=0a7299",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://rapid.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/rapiddotfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/rapiddotfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2dch3qxyftuo5djwp5twdgmecabb9f79lpnvm2mrbhtk",
+        "pairAddress": "2dcH3QXyfTuo5Djwp5TwDGMecaBb9F79LpnVM2mrbhTk",
+        "baseToken": {
+            "address": "9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump",
+            "name": "Rapid.fun",
+            "symbol": "RAPID"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006216",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 279,
+                "sells": 158
+            },
+            "h24": {
+                "buys": 279,
+                "sells": 158
+            }
+        },
+        "volume": {
+            "h24": 40761.36,
+            "h6": 40761.36,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1241,
+            "h24": 1241
+        },
+        "fdv": 62166.17,
+        "marketCap": 62166.17,
+        "pairCreatedAt": 1745384701000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump.png?key=0a7299",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump/header.png?key=0a7299",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/9zX4i8LQasojgUF8PTpFAzxR5aqNcjdY5PmupChcpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://rapid.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/rapiddotfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/rapiddotfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0x010198c54185733388fb924ad7460568e9cab33d",
+        "pairAddress": "0x010198C54185733388FB924ad7460568e9cAb33D",
+        "labels": [
+            "v3"
+        ],
+        "baseToken": {
+            "address": "0x3943fBE2AbE5e38ad19e072FeE4f195Bc00eE42e",
+            "name": "Cult of Pepe",
+            "symbol": "PEPECULT"
+        },
+        "quoteToken": {
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        "priceNative": "0.000000003708",
+        "priceUsd": "0.000006632",
+        "txns": {
+            "m5": {
+                "buys": 1,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 3144,
+                "sells": 3120
+            },
+            "h6": {
+                "buys": 3355,
+                "sells": 3198
+            },
+            "h24": {
+                "buys": 3355,
+                "sells": 3198
+            }
+        },
+        "volume": {
+            "h24": 169467.24,
+            "h6": 169467.24,
+            "h1": 102218.03,
+            "m5": 109.61
+        },
+        "priceChange": {
+            "m5": 0.99,
+            "h1": -95.13,
+            "h6": 10.94,
+            "h24": 10.94
+        },
+        "liquidity": {
+            "usd": 6284.57,
+            "base": 900795753,
+            "quote": 0.1736
+        },
+        "fdv": 6632,
+        "marketCap": 6632,
+        "pairCreatedAt": 1745390583000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0x3943fbe2abe5e38ad19e072fee4f195bc00ee42e.png?key=63bc4b",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0x3943fbe2abe5e38ad19e072fee4f195bc00ee42e/header.png?key=63bc4b",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x3943fbe2abe5e38ad19e072fee4f195bc00ee42e?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://pepecult.site"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/pepecultbase"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/pepecultbase"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/2ptuaq6x2azo32y6gfdswun3wfh4x8foa2yogt95cndx",
+        "pairAddress": "2PTUaQ6X2Azo32y6gFdSwUn3wfh4X8FoA2YoGt95cndX",
+        "labels": [
+            "CLMM"
+        ],
+        "baseToken": {
+            "address": "7oSXMBYvVmkz3gP2UCTMNoJkeK5q3ZAcuoDt5LmcFP8B",
+            "name": "Darren Jason Watkins Jr. ",
+            "symbol": "IShowSpeed"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000002453",
+        "priceUsd": "0.00003704",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 405,
+                "sells": 352
+            },
+            "h6": {
+                "buys": 712,
+                "sells": 481
+            },
+            "h24": {
+                "buys": 712,
+                "sells": 481
+            }
+        },
+        "volume": {
+            "h24": 2903431.18,
+            "h6": 2903431.18,
+            "h1": 1835094.74,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": -99.2,
+            "h6": -91.9,
+            "h24": -91.9
+        },
+        "liquidity": {
+            "usd": 6.49,
+            "base": 15687,
+            "quote": 0.03914
+        },
+        "fdv": 37049,
+        "marketCap": 37049,
+        "pairCreatedAt": 1745391164000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/7oSXMBYvVmkz3gP2UCTMNoJkeK5q3ZAcuoDt5LmcFP8B.png?key=289c65",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/7oSXMBYvVmkz3gP2UCTMNoJkeK5q3ZAcuoDt5LmcFP8B/header.png?key=289c65",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/7oSXMBYvVmkz3gP2UCTMNoJkeK5q3ZAcuoDt5LmcFP8B?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://darrenjasonwatkinsjr.xyz"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/SOL_IShowSpeed_"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/Portal_IShowSpeed"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "base",
+        "dexId": "uniswap",
+        "url": "https://dexscreener.com/base/0xc5ba76aea1f18177c43b2f42e9cc59165d3ee1b6",
+        "pairAddress": "0xC5bA76aEa1f18177C43B2f42e9cc59165d3eE1B6",
+        "labels": [
+            "v3"
+        ],
+        "baseToken": {
+            "address": "0x34ac445dC459888a6DcE09445a9A62EDD7E2AB07",
+            "name": "Based Troll",
+            "symbol": "TROLL"
+        },
+        "quoteToken": {
+            "address": "0x4200000000000000000000000000000000000006",
+            "name": "Wrapped Ether",
+            "symbol": "WETH"
+        },
+        "priceNative": "0.0000000001820",
+        "priceUsd": "0.0000003252",
+        "txns": {
+            "m5": {
+                "buys": 3,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 233,
+                "sells": 6
+            },
+            "h6": {
+                "buys": 333,
+                "sells": 9
+            },
+            "h24": {
+                "buys": 333,
+                "sells": 9
+            }
+        },
+        "volume": {
+            "h24": 7607.3,
+            "h6": 7607.3,
+            "h1": 447.38,
+            "m5": 63.75
+        },
+        "priceChange": {
+            "m5": 0.56,
+            "h1": -2.67,
+            "h6": 83.4,
+            "h24": 83.4
+        },
+        "liquidity": {
+            "usd": 30344.05,
+            "base": 73651531023,
+            "quote": 3.5735
+        },
+        "fdv": 32530,
+        "marketCap": 32530,
+        "pairCreatedAt": 1745389919000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/base/0x34ac445dc459888a6dce09445a9a62edd7e2ab07.png?key=ccc165",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/base/0x34ac445dc459888a6dce09445a9a62edd7e2ab07/header.png?key=ccc165",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x34ac445dc459888a6dce09445a9a62edd7e2ab07?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://basedtroll.org/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/BasedTrololo"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9xfoen3mnf1q9w1usy11psjr2vosszwzac8chttmg1ng",
+        "pairAddress": "9xFoEN3mnf1q9w1uSY11PSjR2VoSSzWzAC8ChttmG1NG",
+        "baseToken": {
+            "address": "A8U2i7Zqczy8tKVQXCuEa2CyuvJBdpLw68GZGvDFpump",
+            "name": "Don't be a \ud83d\udc11",
+            "symbol": "\ud83d\udc11"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002907",
+        "priceUsd": "0.000004392",
+        "txns": {
+            "m5": {
+                "buys": 1,
+                "sells": 3
+            },
+            "h1": {
+                "buys": 11,
+                "sells": 14
+            },
+            "h6": {
+                "buys": 58,
+                "sells": 42
+            },
+            "h24": {
+                "buys": 508,
+                "sells": 751
+            }
+        },
+        "volume": {
+            "h24": 70051.39,
+            "h6": 6570.54,
+            "h1": 824.62,
+            "m5": 231.98
+        },
+        "priceChange": {
+            "m5": -9.02,
+            "h1": -9.29,
+            "h6": 33.06,
+            "h24": -81.01
+        },
+        "liquidity": {
+            "usd": 7106.67,
+            "base": 805704529,
+            "quote": 23.613
+        },
+        "fdv": 4392,
+        "marketCap": 4392,
+        "pairCreatedAt": 1745304904000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/A8U2i7Zqczy8tKVQXCuEa2CyuvJBdpLw68GZGvDFpump.png?key=e25385",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/A8U2i7Zqczy8tKVQXCuEa2CyuvJBdpLw68GZGvDFpump/header.png?key=e25385",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/A8U2i7Zqczy8tKVQXCuEa2CyuvJBdpLw68GZGvDFpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/neversheepagain"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/neversheepagain"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/hrbzkxb8jdhv5vd2v5haedwekxkck33inqmaqcdsdnuf",
+        "pairAddress": "HRBZkxB8JDhv5VD2V5haeDweKXkcK33inqMAqCDsdnuF",
+        "baseToken": {
+            "address": "8Mo6VL65T7sYrmDxafRmYg8bb9VygKHzwpsrScdAdjGX",
+            "name": "Elevate AI",
+            "symbol": "ELEVATE"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000001391",
+        "priceUsd": "0.000002103",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 84,
+                "sells": 142
+            },
+            "h6": {
+                "buys": 1666,
+                "sells": 1695
+            },
+            "h24": {
+                "buys": 1666,
+                "sells": 1695
+            }
+        },
+        "volume": {
+            "h24": 148779.26,
+            "h6": 148779.26,
+            "h1": 37764.06,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": -99.94,
+            "h6": -99.86,
+            "h24": -99.86
+        },
+        "liquidity": {
+            "usd": 407.74,
+            "base": 96782278,
+            "quote": 1.3503
+        },
+        "fdv": 210,
+        "marketCap": 210,
+        "pairCreatedAt": 1745390832000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/8Mo6VL65T7sYrmDxafRmYg8bb9VygKHzwpsrScdAdjGX.png?key=bfe2ce",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/8Mo6VL65T7sYrmDxafRmYg8bb9VygKHzwpsrScdAdjGX/header.png?key=bfe2ce",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/8Mo6VL65T7sYrmDxafRmYg8bb9VygKHzwpsrScdAdjGX?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.solai.pro/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/ElevateAILFG"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/ElevateAILFG"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9qfke5hpdfwha953ztgjutpezdesyvmbdrpg2rpuankt",
+        "pairAddress": "9qfKE5HpDfwHa953ZTgjUTPeZdesyVMBDRpG2RpUankT",
+        "baseToken": {
+            "address": "AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump",
+            "name": "Fartcoin3",
+            "symbol": "Fartcoin3"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000004687",
+        "priceUsd": "0.000007081",
+        "txns": {
+            "m5": {
+                "buys": 2,
+                "sells": 6
+            },
+            "h1": {
+                "buys": 86,
+                "sells": 103
+            },
+            "h6": {
+                "buys": 3533,
+                "sells": 2907
+            },
+            "h24": {
+                "buys": 3533,
+                "sells": 2907
+            }
+        },
+        "volume": {
+            "h24": 682533.11,
+            "h6": 682533.11,
+            "h1": 6981.1,
+            "m5": 315.5
+        },
+        "priceChange": {
+            "m5": -4.02,
+            "h1": 15.67,
+            "h6": -88.81,
+            "h24": -88.81
+        },
+        "liquidity": {
+            "usd": 9097.69,
+            "base": 645120182,
+            "quote": 29.9805
+        },
+        "fdv": 7078,
+        "marketCap": 7078,
+        "pairCreatedAt": 1745390561000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump.png?key=c7267f",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump/header.png?key=c7267f",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://fartcointhird.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/fartcoin3rd"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/8xahqejbuvvyhwbaqhk6rbgv4eh9xdm6souhyi6sxm2m",
+        "pairAddress": "8xahqeJbUVvyhWBaQhk6rBgV4Eh9Xdm6SoUhYi6SxM2m",
+        "baseToken": {
+            "address": "AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump",
+            "name": "Fartcoin3",
+            "symbol": "Fartcoin3"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006209",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 443,
+                "sells": 227
+            },
+            "h24": {
+                "buys": 443,
+                "sells": 227
+            }
+        },
+        "volume": {
+            "h24": 47235.14,
+            "h6": 47235.14,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1185,
+            "h24": 1185
+        },
+        "fdv": 62092.21,
+        "marketCap": 62092.21,
+        "pairCreatedAt": 1745390160000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump.png?key=c7267f",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump/header.png?key=c7267f",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/AHb5twnUMcRGGbUEJj2pxR828j7XDrsBuacJW76Spump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://fartcointhird.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/fartcoin3rd"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/ghynxxexebh69weo6xdneabz8nlnynqaadszgushsub8",
+        "pairAddress": "GHYNxxeXEbH69WEo6XdneabZ8NLNYnQAaDSzgUSHSub8",
+        "labels": [
+            "CLMM"
+        ],
+        "baseToken": {
+            "address": "C7AcXbdwNE8HuP7ZDXU7WUzXfKheGgh7A36qcQySMGF",
+            "name": "Automatic Troll Machine",
+            "symbol": "ATM"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000008538",
+        "priceUsd": "0.00001291",
+        "txns": {
+            "m5": {
+                "buys": 7,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 34,
+                "sells": 8
+            },
+            "h6": {
+                "buys": 65,
+                "sells": 46
+            },
+            "h24": {
+                "buys": 65,
+                "sells": 46
+            }
+        },
+        "volume": {
+            "h24": 3238.36,
+            "h6": 3238.36,
+            "h1": 2001.16,
+            "m5": 318.73
+        },
+        "priceChange": {
+            "m5": 5.4,
+            "h1": 45.18,
+            "h6": 71.62,
+            "h24": 71.62
+        },
+        "liquidity": {
+            "usd": 11240.45,
+            "base": 701691025,
+            "quote": 14.4248
+        },
+        "fdv": 12911,
+        "marketCap": 12911,
+        "pairCreatedAt": 1745377665000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/C7AcXbdwNE8HuP7ZDXU7WUzXfKheGgh7A36qcQySMGF.png?key=b9f372",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/C7AcXbdwNE8HuP7ZDXU7WUzXfKheGgh7A36qcQySMGF/header.png?key=b9f372",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/C7AcXbdwNE8HuP7ZDXU7WUzXfKheGgh7A36qcQySMGF?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/automatedtroll?s=21"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/fmcnmh4ksspxkfntbqru11zgtmtuvopptdycmgdjrak2",
+        "pairAddress": "FmcNMH4KSSpxkfnTbQru11ZGTMTUvoPptDYcMgdjRAk2",
+        "baseToken": {
+            "address": "E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump",
+            "name": "stay hard mf",
+            "symbol": "hard"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002899",
+        "priceUsd": "0.000004382",
+        "txns": {
+            "m5": {
+                "buys": 2,
+                "sells": 3
+            },
+            "h1": {
+                "buys": 5963,
+                "sells": 4506
+            },
+            "h6": {
+                "buys": 8141,
+                "sells": 5980
+            },
+            "h24": {
+                "buys": 8141,
+                "sells": 5980
+            }
+        },
+        "volume": {
+            "h24": 3987121.23,
+            "h6": 3987121.23,
+            "h1": 2197752.32,
+            "m5": 287.16
+        },
+        "priceChange": {
+            "m5": -8.43,
+            "h1": -99.76,
+            "h6": -98.05,
+            "h24": -98.05
+        },
+        "liquidity": {
+            "usd": 7369.41,
+            "base": 845966496,
+            "quote": 24.2305
+        },
+        "fdv": 4382,
+        "marketCap": 4382,
+        "pairCreatedAt": 1745390312000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump.png?key=487b5d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump/header.png?key=487b5d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.tiktok.com/@axaymxaye/photo/7494712106932014358"
+                }
+            ],
+            "socials": []
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/cwzaurb5acavp8jehbd9deriznorsvsuvv8po17cduuh",
+        "pairAddress": "CWZAurB5AcaVP8JEHbD9dERiznorSVsuvv8po17CDUuH",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump",
+            "name": "stay hard mf",
+            "symbol": "hard"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000008102",
+        "priceUsd": "0.001225",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 230,
+                "sells": 122
+            },
+            "h6": {
+                "buys": 230,
+                "sells": 122
+            },
+            "h24": {
+                "buys": 230,
+                "sells": 122
+            }
+        },
+        "volume": {
+            "h24": 1515.99,
+            "h6": 1515.99,
+            "h1": 1515.99,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": -38.36,
+            "h6": -38.36,
+            "h24": -38.36
+        },
+        "liquidity": {
+            "usd": 231.38,
+            "base": 153241,
+            "quote": 0.2875
+        },
+        "fdv": 1225978,
+        "marketCap": 1225978,
+        "pairCreatedAt": 1745392039000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump.png?key=487b5d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump/header.png?key=487b5d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.tiktok.com/@axaymxaye/photo/7494712106932014358"
+                }
+            ],
+            "socials": []
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/4riiaidbetrp3tkr6zyxfumroksfosmswdbd32pkwf6d",
+        "pairAddress": "4RiiAiDbETRP3TKr6ZyXfumroksfoSmswdBd32pkWF6D",
+        "baseToken": {
+            "address": "E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump",
+            "name": "stay hard mf",
+            "symbol": "hard"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006221",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 10,
+                "sells": 0
+            },
+            "h24": {
+                "buys": 380,
+                "sells": 335
+            }
+        },
+        "volume": {
+            "h24": 65552.48,
+            "h6": 12867.84,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1409,
+            "h24": 1397
+        },
+        "fdv": 62211.37,
+        "marketCap": 62211.37,
+        "pairCreatedAt": 1745352959000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump.png?key=487b5d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump/header.png?key=487b5d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/E5n8qAgfGxCjVMcpgGxYnihtwSGHFt6PqexW8bwtpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.tiktok.com/@axaymxaye/photo/7494712106932014358"
+                }
+            ],
+            "socials": []
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cqfytjqpstcsxxzjgcfs3gekviebq2yadafhresgda17",
+        "pairAddress": "CQfYtJQpSTcsXxzjGCfs3GeKViEBQ2YAdAFHresGda17",
+        "baseToken": {
+            "address": "5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump",
+            "name": "gm",
+            "symbol": "gm"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00001410",
+        "priceUsd": "0.002130",
+        "txns": {
+            "m5": {
+                "buys": 73,
+                "sells": 62
+            },
+            "h1": {
+                "buys": 1977,
+                "sells": 1490
+            },
+            "h6": {
+                "buys": 3228,
+                "sells": 2238
+            },
+            "h24": {
+                "buys": 3228,
+                "sells": 2239
+            }
+        },
+        "volume": {
+            "h24": 980657.99,
+            "h6": 980657.77,
+            "h1": 662072.75,
+            "m5": 30402.89
+        },
+        "priceChange": {
+            "m5": 11.05,
+            "h1": 190,
+            "h6": 9931,
+            "h24": 9931
+        },
+        "liquidity": {
+            "usd": 155309.06,
+            "base": 36402024,
+            "quote": 514.5892
+        },
+        "fdv": 2130784,
+        "marketCap": 2130784,
+        "pairCreatedAt": 1744712102000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump.png?key=aebaee",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump/header.png?key=aebaee",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/GMPumpfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/GMPumpfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/fsbmltdnnvv3uklrmcrp2ppcbjuzhsrgb4vm3pqck9km",
+        "pairAddress": "FSBmLTdnnvv3UkLRmCRp2pPcBJUZHSRGB4vM3PqCk9Km",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump",
+            "name": "gm",
+            "symbol": "gm"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00001403",
+        "priceUsd": "0.002121",
+        "txns": {
+            "m5": {
+                "buys": 11,
+                "sells": 6
+            },
+            "h1": {
+                "buys": 105,
+                "sells": 123
+            },
+            "h6": {
+                "buys": 105,
+                "sells": 123
+            },
+            "h24": {
+                "buys": 105,
+                "sells": 123
+            }
+        },
+        "volume": {
+            "h24": 1978.13,
+            "h6": 1978.13,
+            "h1": 1978.13,
+            "m5": 82.44
+        },
+        "priceChange": {
+            "m5": 9.92,
+            "h1": -9.48,
+            "h6": -9.48,
+            "h24": -9.48
+        },
+        "liquidity": {
+            "usd": 216.86,
+            "base": 20575,
+            "quote": 1.146
+        },
+        "fdv": 2121621,
+        "marketCap": 2121621,
+        "pairCreatedAt": 1745393842000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump.png?key=aebaee",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump/header.png?key=aebaee",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5sq4dYagEqL8uh9f9ytnF8KSShseUNNE9UgQLSgUpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/GMPumpfun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/GMPumpfun"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/bdzwkakaqifkvwmqnynfbvtassuw7kbgl4ythfbybrby",
+        "pairAddress": "BDzWkAkAqiFkVWMQNYNFBvtASsuW7kBGL4YthFbyBRBy",
+        "baseToken": {
+            "address": "6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump",
+            "name": "The Art in Fart",
+            "symbol": "F/ART"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000003965",
+        "priceUsd": "0.000005996",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 7
+            },
+            "h1": {
+                "buys": 52,
+                "sells": 114
+            },
+            "h6": {
+                "buys": 3036,
+                "sells": 3448
+            },
+            "h24": {
+                "buys": 3036,
+                "sells": 3448
+            }
+        },
+        "volume": {
+            "h24": 401141.83,
+            "h6": 401141.83,
+            "h1": 7643.97,
+            "m5": 63.7
+        },
+        "priceChange": {
+            "m5": -1.73,
+            "h1": -56.33,
+            "h6": -89.17,
+            "h24": -89.17
+        },
+        "liquidity": {
+            "usd": 8279.54,
+            "base": 694799638,
+            "quote": 27.198
+        },
+        "fdv": 5996,
+        "marketCap": 5996,
+        "pairCreatedAt": 1745388350000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump.png?key=d6fd50",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump/header.png?key=d6fd50",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/elonmusk/status/1215212801876090880"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/apt7ekmz9wkccnivruteysw1x53qymht5uws7pdhq252",
+        "pairAddress": "APT7eKMZ9wKCCNivRUTeysW1x53Qymht5Uws7PDHq252",
+        "baseToken": {
+            "address": "6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump",
+            "name": "The Art in Fart",
+            "symbol": "F/ART"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006198",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 960,
+                "sells": 653
+            },
+            "h24": {
+                "buys": 960,
+                "sells": 653
+            }
+        },
+        "volume": {
+            "h24": 102315.48,
+            "h6": 102315.48,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1225,
+            "h24": 1225
+        },
+        "fdv": 61981.27,
+        "marketCap": 61981.27,
+        "pairCreatedAt": 1745387822000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump.png?key=d6fd50",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump/header.png?key=d6fd50",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6UAkU9hfg7vsdiPmGsTtCShKt5krYRGFF9sGn4o2pump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/elonmusk/status/1215212801876090880"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cgyd6lh6yxjsuvy1sxsm9hgjtrvxcx9gw1pebs9zvknc",
+        "pairAddress": "CgYD6LH6YXjsUvy1sxSm9hGjTrvxcX9Gw1pebs9zvknc",
+        "baseToken": {
+            "address": "5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump",
+            "name": "Just doug ",
+            "symbol": "doug"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000001554",
+        "priceUsd": "0.00002350",
+        "txns": {
+            "m5": {
+                "buys": 4,
+                "sells": 14
+            },
+            "h1": {
+                "buys": 234,
+                "sells": 191
+            },
+            "h6": {
+                "buys": 847,
+                "sells": 819
+            },
+            "h24": {
+                "buys": 847,
+                "sells": 819
+            }
+        },
+        "volume": {
+            "h24": 156002.69,
+            "h6": 156002.69,
+            "h1": 35040.78,
+            "m5": 588.36
+        },
+        "priceChange": {
+            "m5": -7.99,
+            "h1": 4.18,
+            "h6": -62.93,
+            "h24": -62.93
+        },
+        "liquidity": {
+            "usd": 16133.22,
+            "base": 342948176,
+            "quote": 53.4106
+        },
+        "fdv": 23501,
+        "marketCap": 23501,
+        "pairCreatedAt": 1745389922000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump.png?key=edc62b",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump/header.png?key=edc62b",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/justdougsol"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2hqptzdupucqstdxyhh83ktgxdrr4wfyceszkmuw8tvc",
+        "pairAddress": "2HqptZdUpuCQStdxyhH83kTgxDrr4wfYCEsZKMuw8Tvc",
+        "baseToken": {
+            "address": "5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump",
+            "name": "Just doug ",
+            "symbol": "doug"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006219",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 268,
+                "sells": 163
+            },
+            "h24": {
+                "buys": 268,
+                "sells": 163
+            }
+        },
+        "volume": {
+            "h24": 48890.72,
+            "h6": 48890.72,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1299,
+            "h24": 1299
+        },
+        "fdv": 62194.93,
+        "marketCap": 62194.93,
+        "pairCreatedAt": 1745389528000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump.png?key=edc62b",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump/header.png?key=edc62b",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/5wPQUCSF4bwAZY3eeTYvrAmjZERMmW9i9PyY3yugpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/justdougsol"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/ffkj6jj1yukqwnicrpnj5dkfmqm1qurmprw1cm2lfvv4",
+        "pairAddress": "Ffkj6jj1yukqWnicrpNJ5DkFMqM1qUrMpRW1cM2LfVv4",
+        "baseToken": {
+            "address": "Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump",
+            "name": "HODL",
+            "symbol": "HODL"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000003577",
+        "priceUsd": "0.000005407",
+        "txns": {
+            "m5": {
+                "buys": 3,
+                "sells": 2
+            },
+            "h1": {
+                "buys": 2042,
+                "sells": 2573
+            },
+            "h6": {
+                "buys": 10228,
+                "sells": 8317
+            },
+            "h24": {
+                "buys": 10228,
+                "sells": 8317
+            }
+        },
+        "volume": {
+            "h24": 2521316.9,
+            "h6": 2521316.9,
+            "h1": 500016.73,
+            "m5": 277.99
+        },
+        "priceChange": {
+            "m5": 0.04,
+            "h1": -99.22,
+            "h6": -91.78,
+            "h24": -91.78
+        },
+        "liquidity": {
+            "usd": 8196.18,
+            "base": 753606986,
+            "quote": 27.267
+        },
+        "fdv": 5407,
+        "marketCap": 5407,
+        "pairCreatedAt": 1745387677000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump.png?key=7c949d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump/header.png?key=7c949d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://hodlonsol.com/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/HODLLLLPortal"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/HODLLLPortal"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/taaectmnoafe978f8hugxa4wse3vwpbrxfbaweb7cmz",
+        "pairAddress": "TAAeCTmnoAfe978F8HugxA4WsE3VWPbrXfBaweb7cmz",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump",
+            "name": "HODL",
+            "symbol": "HODL"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000002363",
+        "priceUsd": "0.00003565",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 62,
+                "sells": 133
+            },
+            "h6": {
+                "buys": 304,
+                "sells": 263
+            },
+            "h24": {
+                "buys": 304,
+                "sells": 263
+            }
+        },
+        "volume": {
+            "h24": 13929.36,
+            "h6": 13929.36,
+            "h1": 8495.61,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": -94.88,
+            "h6": -90.72,
+            "h24": -90.72
+        },
+        "liquidity": {
+            "usd": 169.83,
+            "base": 3784749,
+            "quote": 0.2311
+        },
+        "fdv": 35659,
+        "marketCap": 35659,
+        "pairCreatedAt": 1745389793000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump.png?key=7c949d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump/header.png?key=7c949d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://hodlonsol.com/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/HODLLLLPortal"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/HODLLLPortal"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/dkgm1karwndx4bpjku3megk731lofmkzi6wgfcnjlgef",
+        "pairAddress": "Dkgm1KaRWnDX4BPJKu3mEGK731LoFmkZi6WgfCnJLGEF",
+        "baseToken": {
+            "address": "Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump",
+            "name": "HODL",
+            "symbol": "HODL"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006199",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 29,
+                "sells": 3
+            },
+            "h24": {
+                "buys": 29,
+                "sells": 3
+            }
+        },
+        "volume": {
+            "h24": 13075.3,
+            "h6": 13075.3,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1358,
+            "h24": 1358
+        },
+        "fdv": 61997.71,
+        "marketCap": 61997.71,
+        "pairCreatedAt": 1745387655000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump.png?key=7c949d",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump/header.png?key=7c949d",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Gu3VbAoiUfRRpzpVADVgsKuoU9u9QJm3Mq9oYmtMpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://hodlonsol.com/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/HODLLLLPortal"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/HODLLLPortal"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/eqx4regixb6vkkwx3cnnekwxqr3rujuwxwadzqwsp6tg",
+        "pairAddress": "Eqx4regiXb6VkkWX3CnNekWxqr3rUJUwxWaDZqWSP6tG",
+        "baseToken": {
+            "address": "DgECE6bmU4ACzg1vETcsvhQn3CV62YE4oFVLEGoK2WsQ",
+            "name": "Pedo Finder Coin",
+            "symbol": "PFC"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004924",
+        "priceUsd": "0.00007444",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 1619,
+                "sells": 1297
+            },
+            "h24": {
+                "buys": 1619,
+                "sells": 1297
+            }
+        },
+        "volume": {
+            "h24": 180910.92,
+            "h6": 180910.92,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 104,
+            "h24": 104
+        },
+        "liquidity": {
+            "usd": 0.02,
+            "base": 250.5903,
+            "quote": 6.493e-05
+        },
+        "fdv": 74442,
+        "marketCap": 74442,
+        "pairCreatedAt": 1745389036000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/DgECE6bmU4ACzg1vETcsvhQn3CV62YE4oFVLEGoK2WsQ.png?key=ef17d6",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/DgECE6bmU4ACzg1vETcsvhQn3CV62YE4oFVLEGoK2WsQ/header.png?key=ef17d6",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DgECE6bmU4ACzg1vETcsvhQn3CV62YE4oFVLEGoK2WsQ?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/nanoshxliv80297"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/b1gutegsb8spzn3buczl83taztd4zf2p8iq2acctensh",
+        "pairAddress": "B1GuTEGSb8spZN3BUcZL83tazTd4zF2P8iQ2ACctensh",
+        "baseToken": {
+            "address": "DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump",
+            "name": "autism creature",
+            "symbol": "yippee"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002260",
+        "priceUsd": "0.000003415",
+        "txns": {
+            "m5": {
+                "buys": 1,
+                "sells": 2
+            },
+            "h1": {
+                "buys": 4,
+                "sells": 11
+            },
+            "h6": {
+                "buys": 1598,
+                "sells": 2373
+            },
+            "h24": {
+                "buys": 1598,
+                "sells": 2373
+            }
+        },
+        "volume": {
+            "h24": 1322488.6,
+            "h6": 1322488.6,
+            "h1": 213.06,
+            "m5": 1.43
+        },
+        "priceChange": {
+            "m5": 0.41,
+            "h1": -10.04,
+            "h6": -98.35,
+            "h24": -98.35
+        },
+        "liquidity": {
+            "usd": 6248.25,
+            "base": 915431222,
+            "quote": 20.6565
+        },
+        "fdv": 3415,
+        "marketCap": 3415,
+        "pairCreatedAt": 1745388969000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump.png?key=081797",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump/header.png?key=081797",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://knowyourmeme.com/memes/tbh-autism-creature-yippee"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/i/communities/1914751694984134906"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/9vy4bjv2m6ht3p8tihnwjunlhdswb4v7cw9xq1yauebq",
+        "pairAddress": "9VY4bjV2m6ht3p8TihnWjUNLhDswB4V7cw9xQ1yaUeBq",
+        "baseToken": {
+            "address": "DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump",
+            "name": "autism creature",
+            "symbol": "yippee"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006230",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 10,
+                "sells": 1
+            },
+            "h24": {
+                "buys": 241,
+                "sells": 234
+            }
+        },
+        "volume": {
+            "h24": 51593.09,
+            "h6": 12939.03,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1365,
+            "h24": 1172
+        },
+        "fdv": 62301.76,
+        "marketCap": 62301.76,
+        "pairCreatedAt": 1745349457000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump.png?key=081797",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump/header.png?key=081797",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/DKCsdcm4F2LqaTPrLEKDSPgxB9HuqCEBxgpmZGuJpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://knowyourmeme.com/memes/tbh-autism-creature-yippee"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/i/communities/1914751694984134906"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/9wc4jryencxwrtkkglcskc2qfawqbeayv26glypiytdk",
+        "pairAddress": "9WC4JryenCXwrtkKgLcSKc2QfaWqBeaYv26gLYPiyTDk",
+        "labels": [
+            "CPMM"
+        ],
+        "baseToken": {
+            "address": "mntSDrqFvtPiHy6SHDuKtgmPmnHayVuYr57ghau5tp9",
+            "name": "Pope Patrick",
+            "symbol": "POPE"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000000004147",
+        "priceUsd": "0.0000006269",
+        "txns": {
+            "m5": {
+                "buys": 2,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 159,
+                "sells": 120
+            },
+            "h6": {
+                "buys": 487,
+                "sells": 374
+            },
+            "h24": {
+                "buys": 487,
+                "sells": 374
+            }
+        },
+        "volume": {
+            "h24": 2556.66,
+            "h6": 2556.66,
+            "h1": 720.89,
+            "m5": 4.06
+        },
+        "priceChange": {
+            "m5": -1.84,
+            "h1": 1.17,
+            "h6": 7020,
+            "h24": 7020
+        },
+        "liquidity": {
+            "usd": 108.06,
+            "base": 86179366,
+            "quote": 0.3574
+        },
+        "fdv": 627,
+        "marketCap": 627,
+        "pairCreatedAt": 1745388245000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/mntSDrqFvtPiHy6SHDuKtgmPmnHayVuYr57ghau5tp9.png?key=e322e3",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/mntSDrqFvtPiHy6SHDuKtgmPmnHayVuYr57ghau5tp9/header.png?key=e322e3",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/mntSDrqFvtPiHy6SHDuKtgmPmnHayVuYr57ghau5tp9?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://popepatrick.xyz/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/pope_patri19385"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/popepatrick3"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/5qp75c77ybxfe2z6wwhua6gayedxs9wat34gaduxqzya",
+        "pairAddress": "5QP75c77YbXfe2Z6WwhUa6GAYedxs9wAt34GadUXqZya",
+        "baseToken": {
+            "address": "y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump",
+            "name": "official fart reserve",
+            "symbol": "colon"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000001096",
+        "priceUsd": "0.0001657",
+        "txns": {
+            "m5": {
+                "buys": 121,
+                "sells": 112
+            },
+            "h1": {
+                "buys": 2738,
+                "sells": 2217
+            },
+            "h6": {
+                "buys": 6245,
+                "sells": 5303
+            },
+            "h24": {
+                "buys": 6245,
+                "sells": 5303
+            }
+        },
+        "volume": {
+            "h24": 925884.45,
+            "h6": 925884.45,
+            "h1": 508156.48,
+            "m5": 14159.76
+        },
+        "priceChange": {
+            "m5": -5.63,
+            "h1": 389,
+            "h6": 163,
+            "h24": 163
+        },
+        "liquidity": {
+            "usd": 44309.06,
+            "base": 133713572,
+            "quote": 146.4665
+        },
+        "fdv": 165796,
+        "marketCap": 165796,
+        "pairCreatedAt": 1745387964000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump.png?key=6c2487",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump/header.png?key=6c2487",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://pump.fun/coin/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump"
+                }
+            ],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/lczzdwa2qm2amf63gygf18bggk8cjxqs4y2a8vdk4y7",
+        "pairAddress": "LcZzDWa2QM2AMF63gYgF18bggK8CJxqs4Y2A8vdk4y7",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump",
+            "name": "official fart reserve",
+            "symbol": "colon"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.000001106",
+        "priceUsd": "0.0001672",
+        "txns": {
+            "m5": {
+                "buys": 3,
+                "sells": 7
+            },
+            "h1": {
+                "buys": 166,
+                "sells": 118
+            },
+            "h6": {
+                "buys": 268,
+                "sells": 272
+            },
+            "h24": {
+                "buys": 268,
+                "sells": 272
+            }
+        },
+        "volume": {
+            "h24": 15486.02,
+            "h6": 15486.02,
+            "h1": 13604.1,
+            "m5": 97.77
+        },
+        "priceChange": {
+            "m5": 6.25,
+            "h1": 203,
+            "h6": 61.45,
+            "h24": 61.45
+        },
+        "liquidity": {
+            "usd": 1511.78,
+            "base": 7702813,
+            "quote": 1.4781
+        },
+        "fdv": 167257,
+        "marketCap": 167257,
+        "pairCreatedAt": 1745388630000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump.png?key=6c2487",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump/header.png?key=6c2487",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://pump.fun/coin/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump"
+                }
+            ],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/hdwfdzgiarfcyfnlvzfupultwfu5fxkq59yhyi3nfvk4",
+        "pairAddress": "HdWfDzGiarFCYfNLVZFuPuLtWfu5Fxkq59yHyi3NFvK4",
+        "baseToken": {
+            "address": "y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump",
+            "name": "official fart reserve",
+            "symbol": "colon"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006191",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 1573,
+                "sells": 1076
+            },
+            "h24": {
+                "buys": 1573,
+                "sells": 1076
+            }
+        },
+        "volume": {
+            "h24": 134519.49,
+            "h6": 134519.49,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1189,
+            "h24": 1189
+        },
+        "fdv": 61919.64,
+        "marketCap": 61919.64,
+        "pairCreatedAt": 1745383904000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump.png?key=6c2487",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump/header.png?key=6c2487",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://pump.fun/coin/y1ddLKxACAwsnYXRQKc3pXJohyozeKua1DGkW45pump"
+                }
+            ],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/cfdwiyaq7qlumyktwgpymylfvuqeq5u3lsfrpppruilf",
+        "pairAddress": "CFdwiyAQ7QLumYktwGpymYLfvUQEq5U3LSfRPpPruiLF",
+        "baseToken": {
+            "address": "F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump",
+            "name": "USATRUMP",
+            "symbol": "USATRUMP"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002182",
+        "priceUsd": "0.000003308",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 1,
+                "sells": 5
+            },
+            "h6": {
+                "buys": 2900,
+                "sells": 5527
+            },
+            "h24": {
+                "buys": 2900,
+                "sells": 5527
+            }
+        },
+        "volume": {
+            "h24": 3158611.09,
+            "h6": 3158611.09,
+            "h1": 139.92,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": -3.5,
+            "h6": -99.04,
+            "h24": -99.04
+        },
+        "liquidity": {
+            "usd": 6257.61,
+            "base": 939721120,
+            "quote": 20.7644
+        },
+        "fdv": 3309,
+        "marketCap": 3309,
+        "pairCreatedAt": 1745387759000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump.png?key=b30752",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump/header.png?key=b30752",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/MailOnline/status/1914805594948620641"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/6pthvduir3i9kwexirm2mouchjjaby4nufhrwtrkvgqw",
+        "pairAddress": "6pTHVduir3i9kwExirm2MoUChjJaby4nuFHrWTRkVGqw",
+        "baseToken": {
+            "address": "F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump",
+            "name": "USATRUMP",
+            "symbol": "USATRUMP"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006200",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 10,
+                "sells": 0
+            },
+            "h24": {
+                "buys": 14,
+                "sells": 3
+            }
+        },
+        "volume": {
+            "h24": 14765.94,
+            "h6": 12828.15,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1396,
+            "h24": 1137
+        },
+        "fdv": 62005.93,
+        "marketCap": 62005.93,
+        "pairCreatedAt": 1745360286000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump.png?key=b30752",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump/header.png?key=b30752",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/F4BbPEQ9h2KuJLSSWu9R9FJqAwrYuU1rAfjFDZSrpump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/MailOnline/status/1914805594948620641"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/e9s32qfwf1nbfiwuj4zapk3z33hpxcfxml1gfr4voe2w",
+        "pairAddress": "E9s32qfWF1nBfiwUj4ZAPK3Z33hpXCfXML1GfR4voe2w",
+        "baseToken": {
+            "address": "HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa",
+            "name": "Boomer",
+            "symbol": "BOOMER"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000004327",
+        "priceUsd": "0.000006541",
+        "txns": {
+            "m5": {
+                "buys": 1,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 12,
+                "sells": 28
+            },
+            "h6": {
+                "buys": 4158,
+                "sells": 2613
+            },
+            "h24": {
+                "buys": 4158,
+                "sells": 2613
+            }
+        },
+        "volume": {
+            "h24": 449353.66,
+            "h6": 449353.66,
+            "h1": 1193.84,
+            "m5": 11.24
+        },
+        "priceChange": {
+            "m5": -0.3,
+            "h1": -2.99,
+            "h6": -90.02,
+            "h24": -90.02
+        },
+        "liquidity": {
+            "usd": 8609.84,
+            "base": 657850039,
+            "quote": 28.4842
+        },
+        "fdv": 6542,
+        "marketCap": 6542,
+        "pairCreatedAt": 1745387289000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa.png?key=8928e1",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa/header.png?key=8928e1",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://boomerz.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/boomer_fun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/boomer_fun"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 30
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/66fhwibjb6drlu7fpcxesqbgpr71jjxasdvmsr7ft54w",
+        "pairAddress": "66FhwiBJB6dRLu7FpcXesQBgpR71JJXaSdvMSr7ft54w",
+        "baseToken": {
+            "address": "HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa",
+            "name": "Boomer",
+            "symbol": "BOOMER"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006215",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 366,
+                "sells": 184
+            },
+            "h24": {
+                "buys": 366,
+                "sells": 184
+            }
+        },
+        "volume": {
+            "h24": 83900.14,
+            "h6": 83900.14,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 79.21,
+            "h24": 79.21
+        },
+        "fdv": 62157.95,
+        "marketCap": 62157.95,
+        "pairCreatedAt": 1745386432000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa.png?key=8928e1",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa/header.png?key=8928e1",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/HTFatXDNo3BUCRTfuTEWJjKBQ1Hw7bcrJY4rCqeZSiQa?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://boomerz.fun/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/boomer_fun"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/boomer_fun"
+                }
+            ]
+        },
+        "boosts": {
+            "active": 30
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/5m9zrcj2v1c4vyztruw129h6ywxzmyy7poq3b8w6uwpj",
+        "pairAddress": "5m9ZRcJ2v1c4vyZtRUW129h6ywXzmYY7poQ3B8w6UWpJ",
+        "baseToken": {
+            "address": "FknnTz8YMYkRndf3gNddyDsVdgw35mCWRGb6s2A5gvB1",
+            "name": "Flux Bridge",
+            "symbol": "FLUX"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000001463",
+        "priceUsd": "0.000002220",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 179,
+                "sells": 218
+            },
+            "h24": {
+                "buys": 179,
+                "sells": 218
+            }
+        },
+        "volume": {
+            "h24": 84836.42,
+            "h6": 84836.42,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": -99.85,
+            "h24": -99.85
+        },
+        "liquidity": {
+            "usd": 416.46,
+            "base": 93876749,
+            "quote": 1.3704
+        },
+        "fdv": 222,
+        "marketCap": 222,
+        "pairCreatedAt": 1745386926000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/FknnTz8YMYkRndf3gNddyDsVdgw35mCWRGb6s2A5gvB1.png?key=66f70f",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/FknnTz8YMYkRndf3gNddyDsVdgw35mCWRGb6s2A5gvB1/header.png?key=66f70f",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/FknnTz8YMYkRndf3gNddyDsVdgw35mCWRGb6s2A5gvB1?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.fluxsol.app/"
+                }
+            ],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/FluxBridgeApp"
+                },
+                {
+                    "type": "telegram",
+                    "url": "https://t.me/FluxBridgeApp"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "raydium",
+        "url": "https://dexscreener.com/solana/8rgf2xfhaxauphkt36hxf4cwdizks8sa2dyu1mcacqj6",
+        "pairAddress": "8RGf2xFHaXAUphkt36Hxf4cWdizkS8sa2dYu1mcACqj6",
+        "labels": [
+            "CPMM"
+        ],
+        "baseToken": {
+            "address": "CSgLJ6wu9AoJGi4TpC31Lr5CCQkZbwkSUTW6REeC5K3J",
+            "name": "Loopcoin",
+            "symbol": "LPC"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000001803",
+        "priceUsd": "0.000002726",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 1
+            },
+            "h1": {
+                "buys": 8,
+                "sells": 6
+            },
+            "h6": {
+                "buys": 98,
+                "sells": 55
+            },
+            "h24": {
+                "buys": 98,
+                "sells": 55
+            }
+        },
+        "volume": {
+            "h24": 2739.15,
+            "h6": 2739.15,
+            "h1": 355.06,
+            "m5": 67.99
+        },
+        "priceChange": {
+            "m5": -13.52,
+            "h1": 24.84,
+            "h6": 125,
+            "h24": 125
+        },
+        "liquidity": {
+            "usd": 1822.94,
+            "base": 334276914,
+            "quote": 6.02785
+        },
+        "fdv": 2727,
+        "marketCap": 2727,
+        "pairCreatedAt": 1745385600000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/CSgLJ6wu9AoJGi4TpC31Lr5CCQkZbwkSUTW6REeC5K3J.png?key=48d572",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CSgLJ6wu9AoJGi4TpC31Lr5CCQkZbwkSUTW6REeC5K3J/header.png?key=48d572",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CSgLJ6wu9AoJGi4TpC31Lr5CCQkZbwkSUTW6REeC5K3J?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://www.theLoopcoin.com"
+                }
+            ],
+            "socials": []
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/9tfzfwk3jnfjyth7medsb2g7qycehjudavmcc2qjf18m",
+        "pairAddress": "9tFZFwk3jNfjyth7medsB2g7QYCEhjudaVMCC2qjF18m",
+        "baseToken": {
+            "address": "Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump",
+            "name": "Just doug",
+            "symbol": "doug"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002608",
+        "priceUsd": "0.000003943",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 9
+            },
+            "h1": {
+                "buys": 15,
+                "sells": 31
+            },
+            "h6": {
+                "buys": 3275,
+                "sells": 3011
+            },
+            "h24": {
+                "buys": 3275,
+                "sells": 3011
+            }
+        },
+        "volume": {
+            "h24": 513187,
+            "h6": 513187,
+            "h1": 2460.89,
+            "m5": 441.51
+        },
+        "priceChange": {
+            "m5": -19.74,
+            "h1": 1.53,
+            "h6": -93.04,
+            "h24": -93.04
+        },
+        "liquidity": {
+            "usd": 6728.13,
+            "base": 869920969,
+            "quote": 21.8139
+        },
+        "fdv": 3943,
+        "marketCap": 3943,
+        "pairCreatedAt": 1745386656000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump.png?key=a79c95",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump/header.png?key=a79c95",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/jsutdougsol"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "meteora",
+        "url": "https://dexscreener.com/solana/8jptjetqb5yirpwkad8hbfbrjzsjajgl97qszpmb4mg1",
+        "pairAddress": "8jpTjEtqb5yiRpwkad8HbFbrJZSjaJgL97QszpmB4mg1",
+        "labels": [
+            "DLMM"
+        ],
+        "baseToken": {
+            "address": "Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump",
+            "name": "Just doug",
+            "symbol": "doug"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000003877",
+        "priceUsd": "0.00005863",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 12,
+                "sells": 76
+            },
+            "h24": {
+                "buys": 12,
+                "sells": 76
+            }
+        },
+        "volume": {
+            "h24": 2016.31,
+            "h6": 2016.31,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": -41.09,
+            "h24": -41.09
+        },
+        "liquidity": {
+            "usd": 1048.89,
+            "base": 17847004,
+            "quote": 0.01669
+        },
+        "fdv": 58630,
+        "marketCap": 58630,
+        "pairCreatedAt": 1745387025000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump.png?key=a79c95",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump/header.png?key=a79c95",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/jsutdougsol"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/2pwgwnf7qgtsrde2giuxdexkumzlzbglvqjcgmawnaxq",
+        "pairAddress": "2pWgwnF7qgTSRdE2giuXDEXKUmZLZBGLVqjCGmawnAxq",
+        "baseToken": {
+            "address": "Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump",
+            "name": "Just doug",
+            "symbol": "doug"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006212",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 259,
+                "sells": 124
+            },
+            "h24": {
+                "buys": 259,
+                "sells": 124
+            }
+        },
+        "volume": {
+            "h24": 44276.38,
+            "h6": 44276.38,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1192,
+            "h24": 1192
+        },
+        "fdv": 62129.19,
+        "marketCap": 62129.19,
+        "pairCreatedAt": 1745386597000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump.png?key=a79c95",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump/header.png?key=a79c95",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/Ejt4VA3NRHUFj9QN43QbrG4WMUgnDRLEEcySkhH8pump?timestamp=1745395500000",
+            "websites": [],
+            "socials": [
+                {
+                    "type": "twitter",
+                    "url": "https://x.com/jsutdougsol"
+                }
+            ]
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpswap",
+        "url": "https://dexscreener.com/solana/dmkzyiuy3hqwebvnwmblgavyvphehscur86d5uyy64ax",
+        "pairAddress": "DMKZYiUY3HqwEbvnwMbLgavYvPhEHsCur86D5uyy64Ax",
+        "baseToken": {
+            "address": "G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump",
+            "name": "Lad",
+            "symbol": "LAD"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Wrapped SOL",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.00000002499",
+        "priceUsd": "0.000003779",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 2,
+                "sells": 5
+            },
+            "h6": {
+                "buys": 2112,
+                "sells": 2976
+            },
+            "h24": {
+                "buys": 2112,
+                "sells": 2976
+            }
+        },
+        "volume": {
+            "h24": 1745011.38,
+            "h6": 1745011.38,
+            "h1": 213.7,
+            "m5": 0
+        },
+        "priceChange": {
+            "h1": 6.26,
+            "h6": -98.43,
+            "h24": -98.43
+        },
+        "liquidity": {
+            "usd": 6615.81,
+            "base": 874005355,
+            "quote": 21.8995
+        },
+        "fdv": 3780,
+        "marketCap": 3780,
+        "pairCreatedAt": 1745385941000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump.png?key=0e5ca4",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump/header.png?key=0e5ca4",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://virgin-vs-chad.fandom.com/wiki/Lad"
+                }
+            ],
+            "socials": []
+        },
+        "boosts": {
+            "active": 10
+        }
+    },
+    {
+        "chainId": "solana",
+        "dexId": "pumpfun",
+        "url": "https://dexscreener.com/solana/5xv2iespb6mkttty5hwrmnakga3c9pjcz6u2qspvgd4h",
+        "pairAddress": "5xV2ieSPb6mktTTy5HwrmNaKGA3c9PjCZ6u2qspvgD4H",
+        "baseToken": {
+            "address": "G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump",
+            "name": "Lad",
+            "symbol": "LAD"
+        },
+        "quoteToken": {
+            "address": "So11111111111111111111111111111111111111112",
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        "priceNative": "0.0000004108",
+        "priceUsd": "0.00006190",
+        "txns": {
+            "m5": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h1": {
+                "buys": 0,
+                "sells": 0
+            },
+            "h6": {
+                "buys": 10,
+                "sells": 2
+            },
+            "h24": {
+                "buys": 559,
+                "sells": 518
+            }
+        },
+        "volume": {
+            "h24": 66239.23,
+            "h6": 12808.31,
+            "h1": 0,
+            "m5": 0
+        },
+        "priceChange": {
+            "h6": 1395,
+            "h24": 976
+        },
+        "fdv": 61907.32,
+        "marketCap": 61907.32,
+        "pairCreatedAt": 1745362443000,
+        "info": {
+            "imageUrl": "https://dd.dexscreener.com/ds-data/tokens/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump.png?key=0e5ca4",
+            "header": "https://dd.dexscreener.com/ds-data/tokens/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump/header.png?key=0e5ca4",
+            "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/G1at1N4oXwEqfq8zuHa3HJQAmNFtz5P6utqustqMpump?timestamp=1745395500000",
+            "websites": [
+                {
+                    "label": "Website",
+                    "url": "https://virgin-vs-chad.fandom.com/wiki/Lad"
+                }
+            ],
+            "socials": []
+        },
+        "boosts": {
+            "active": 10
+        }
+    }
+]
